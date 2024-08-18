@@ -15,6 +15,9 @@ I'm a passionate Web Developer with a strong focus on creating dynamic, responsi
     <img alt="Website" title="Visit my website" src="https://custom-icon-badges.demolab.com/badge/-Website-black?style=for-the-badge&logo=globe&logoColor=white"/></a>
 </p>
 
+<br />
+<br />
+
 ### 🛠️ My Tech Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
@@ -44,43 +47,40 @@ I'm a passionate Web Developer with a strong focus on creating dynamic, responsi
 ### 🚀 Latest Projects
 
 <!-- BEGIN PROJECT-CARDS -->
-<div style="display: flex; gap: 20px; padding: 10px;">
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <!-- Project 1 -->
-  <a href="https://github.com/username/project1" target="_blank" style="flex: 0 0 auto; width: 300px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; text-decoration: none; color: inherit;">
-    <img src="https://via.placeholder.com/300x160.png?text=Project+1" alt="Project 1" style="width: 100%; border-bottom: 1px solid #ddd;"/>
+  <a href="https://github.com/YousifMHelal/trendy" target="_blank" style="display: flex; flex-direction: column; width: 300px; border: 1px solid #ddd; text-decoration: none; color: inherit;">
+    <img src="https://my-portfolio-five-lime-57.vercel.app/_next/image?url=%2Fecom-pc.png&w=1200&q=75" alt="Trendy" style="width: 100%; border-bottom: 1px solid #ddd;"/>
     <div style="padding: 10px;">
-      <h3 style="margin: 0;">Project Title 1</h3>
-      <p style="margin: 0; font-size: 14px; color: #555;">This is a brief description of Project 1, highlighting its main features and purpose.</p>
+      <h3 style="margin: 0; font-size: 20px;">Trendy </h3>
+      <p style="margin: 0; font-size: 14px; color: #555; width: 300px;">Trendy is a comprehensive e-commerce platform designed to provide a seamless shopping experience. The application offers robust authentication, product management, dynamic categorization, and secure checkout features.</p>
       <p style="margin-top: 10px;">
-        <a href="https://github.com/username/project1" target="_blank" style="margin-right: 10px; text-decoration: none; color: #007bff;">🔗 GitHub Repo</a>
-        <a href="https://project1-demo.com" target="_blank" style="text-decoration: none; color: #007bff;">🌐 Live Demo</a>
+        <a href="https://github.com/YousifMHelal/trendy" target="_blank" style="text-decoration: none; color: #007bff; margin-right: 10px;">🔗 GitHub Repo</a>
+        <a href="https://trendy-sigma.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff;">🌐 Live Demo</a>
       </p>
     </div>
   </a>
-  <!-- Project 2 -->
-  <a href="https://github.com/username/project2" target="_blank" style="flex: 0 0 auto; width: 300px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; text-decoration: none; color: inherit;">
-    <img src="https://via.placeholder.com/300x160.png?text=Project+2" alt="Project 2" style="width: 100%; border-bottom: 1px solid #ddd;"/>
+  <a href="https://github.com/YousifMHelal/postpeak" target="_blank" style="display: flex; flex-direction: column; width: 300px; border: 1px solid #ddd; text-decoration: none; color: inherit;">
+    <img src="https://my-portfolio-five-lime-57.vercel.app/_next/image?url=%2Fblog-pc.png&w=1200&q=75" alt="postpeak" style="width: 100%; border-bottom: 1px solid #ddd;"/>
     <div style="padding: 10px;">
-      <h3 style="margin: 0;">Project Title 2</h3>
-      <p style="margin: 0; font-size: 14px; color: #555;">This is a brief description of Project 2, highlighting its main features and purpose.</p>
+      <h3 style="margin: 0; font-size: 20px;">postpeak </h3>
+      <p style="margin: 0; font-size: 14px; color: #555; width: 300px;">postpeak is a dynamic blogging platform built with Next.js and Prisma. Users can sign up, log in, create posts, view other posts, comment on them, and filter posts by category. This application provides a user-friendly interface for managing and exploring blog content.</p>
       <p style="margin-top: 10px;">
-        <a href="https://github.com/username/project2" target="_blank" style="margin-right: 10px; text-decoration: none; color: #007bff;">🔗 GitHub Repo</a>
-        <a href="https://project2-demo.com" target="_blank" style="text-decoration: none; color: #007bff;">🌐 Live Demo</a>
+        <a href="https://github.com/YousifMHelal/postpeak" target="_blank" style="text-decoration: none; color: #007bff; margin-right: 10px;">🔗 GitHub Repo</a>
       </p>
     </div>
   </a>
-  <!-- Project 3 -->
-  <a href="https://github.com/username/project3" target="_blank" style="flex: 0 0 auto; width: 300px; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; text-decoration: none; color: inherit;">
-    <img src="https://via.placeholder.com/300x160.png?text=Project+3" alt="Project 3" style="width: 100%; border-bottom: 1px solid #ddd;"/>
+  <a href="https://github.com/YousifMHelal/movie-vault" target="_blank" style="display: flex; flex-direction: column; width: 300px; border: 1px solid #ddd; text-decoration: none; color: inherit;">
+    <img src="https://my-portfolio-five-lime-57.vercel.app/_next/image?url=%2Fmove-pc.png&w=1200&q=75" alt="Movie Vault" style="width: 100%; border-bottom: 1px solid #ddd;"/>
     <div style="padding: 10px;">
-      <h3 style="margin: 0;">Project Title 3</h3>
-      <p style="margin: 0; font-size: 14px; color: #555;">This is a brief description of Project 3, highlighting its main features and purpose.</p>
+      <h3 style="margin: 0; font-size: 20px;">Movie Vault</h3>
+      <p style="margin: 0; font-size: 14px; color: #555; width: 300px;">Movie Vault is a movie listing application designed to help users search, browse, and explore movies efficiently. With features like infinite scroll, detailed movie information, and search functionality, Movie Vault offers an engaging experience for movie enthusiasts.</p>
       <p style="margin-top: 10px;">
-        <a href="https://github.com/username/project3" target="_blank" style="margin-right: 10px; text-decoration: none; color: #007bff;">🔗 GitHub Repo</a>
-        <a href="https://project3-demo.com" target="_blank" style="text-decoration: none; color: #007bff;">🌐 Live Demo</a>
+        <a href="https://github.com/YousifMHelal/movie-vault" target="_blank" style="text-decoration: none; color: #007bff; margin-right: 10px;">🔗 GitHub Repo</a>
+        <a href="https://movie-vault-cyan.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff;">🌐 Live Demo</a>
       </p>
     </div>
   </a>
-
 </div>
+
 <!-- END PROJECT-CARDS -->
