@@ -47,9 +47,9 @@ I'm a passionate Web Developer with a strong focus on creating dynamic, responsi
 ### 🚀 Latest Projects
 
 <!-- BEGIN PROJECT-CARDS -->
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div style=" display: flex; gap: 20px; flex-wrap: wrap;">
   <!-- Project 1 -->
-  <a href="https://github.com/YousifMHelal/trendy" target="_blank" style="display: flex; flex-direction: column; width: 300px; border: 1px solid #ddd; text-decoration: none; color: inherit;">
+  <a href="https://github.com/YousifMHelal/trendy" target="_blank" style="display: flex; flex-direction: column; max-width: 300px; height:350px; border: 1px solid #ddd; text-decoration: none; color: inherit;">
     <img src="https://my-portfolio-five-lime-57.vercel.app/_next/image?url=%2Fecom-pc.png&w=1200&q=75" alt="Trendy" style="width: 100%; border-bottom: 1px solid #ddd;"/>
     <div style="padding: 10px;">
       <h3 style="margin: 0; font-size: 20px;">Trendy </h3>
