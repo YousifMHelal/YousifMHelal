@@ -47,34 +47,36 @@ I'm a passionate Web Developer with a strong focus on creating dynamic, responsi
 
 <!-- BEGIN PROJECT-CARDS -->
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div align="center">
 
-  <div style="flex: 1 1 300px; box-sizing: border-box; max-width: 300px; margin: 10px;">
-    <a href="https://github.com/YousifMHelal/trendy" target="_blank">
-      <img src="https://my-portfolio-five-lime-57.vercel.app/_next/image?url=%2Fecom-pc.png&w=1200&q=75" alt="Trendy" width="100%" style="border-radius: 10px;"/>
-    </a>
-    <h3 style="margin: 10px 0 5px;">Trendy</h3>
-    <p style="font-size: 14px; color: #555;">A comprehensive e-commerce platform designed to provide a seamless shopping experience. The application offers robust authentication, product management, dynamic categorization, and secure checkout features.</p>
-    <a href="https://github.com/YousifMHelal/trendy" target="_blank" style="text-decoration: none; color: #007bff;">🔗 GitHub Repo</a> • <a href="https://trendy-sigma.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff;">🌐 Live Demo</a>
-  </div>
-
-  <div style="flex: 1 1 300px; box-sizing: border-box; max-width: 300px; margin: 10px;">
-    <a href="https://github.com/YousifMHelal/postpeak" target="_blank">
-      <img src="https://my-portfolio-five-lime-57.vercel.app/_next/image?url=%2Fblog-pc.png&w=1200&q=75" alt="Postpeak" width="100%" style="border-radius: 10px;"/>
-    </a>
-    <h3 style="margin: 10px 0 5px;">Postpeak</h3>
-    <p style="font-size: 14px; color: #555;">A dynamic blogging platform built with Next.js and Prisma. Users can sign up, log in, create posts, view other posts, comment on them, and filter posts by category.</p>
-    <a href="https://github.com/YousifMHelal/postpeak" target="_blank" style="text-decoration: none; color: #007bff;">🔗 GitHub Repo</a>
-  </div>
-
-  <div style="flex: 1 1 300px; box-sizing: border-box; max-width: 300px; margin: 10px;">
-    <a href="https://github.com/YousifMHelal/movie-vault" target="_blank">
-      <img src="https://my-portfolio-five-lime-57.vercel.app/_next/image?url=%2Fmove-pc.png&w=1200&q=75" alt="Movie Vault" width="100%" style="border-radius: 10px;"/>
-    </a>
-    <h3 style="margin: 10px 0 5px;">Movie Vault</h3>
-    <p style="font-size: 14px; color: #555;">A movie listing application designed to help users search, browse, and explore movies efficiently. Features include infinite scroll, detailed movie information, and search functionality.</p>
-    <a href="https://github.com/YousifMHelal/movie-vault" target="_blank" style="text-decoration: none; color: #007bff;">🔗 GitHub Repo</a> • <a href="https://movie-vault-cyan.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff;">🌐 Live Demo</a>
-  </div>
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/YousifMHelal/trendy" target="_blank">
+        <img src="https://my-portfolio-five-lime-57.vercel.app/_next/image?url=%2Fecom-pc.png&w=1200&q=75" alt="Trendy" width="100%" style="border-radius: 10px;"/>
+      </a>
+      <h3 style="margin: 0;">Trendy</h3>
+      <p style="font-size: 14px; color: #555;">A comprehensive e-commerce platform designed to provide a seamless shopping experience. The application offers robust authentication, product management, dynamic categorization, and secure checkout features.</p>
+      <a href="https://github.com/YousifMHelal/trendy" target="_blank" style="text-decoration: none; color: #007bff;">🔗 GitHub Repo</a> • <a href="https://trendy-sigma.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff;">🌐 Live Demo</a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/YousifMHelal/postpeak" target="_blank">
+        <img src="https://my-portfolio-five-lime-57.vercel.app/_next/image?url=%2Fblog-pc.png&w=1200&q=75" alt="Postpeak" width="100%" style="border-radius: 10px;"/>
+      </a>
+      <h3 style="margin: 0;">Postpeak</h3>
+      <p style="font-size: 14px; color: #555;">A dynamic blogging platform built with Next.js and Prisma. Users can sign up, log in, create posts, view other posts, comment on them, and filter posts by category.</p>
+      <a href="https://github.com/YousifMHelal/postpeak" target="_blank" style="text-decoration: none; color: #007bff;">🔗 GitHub Repo</a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/YousifMHelal/movie-vault" target="_blank">
+        <img src="https://my-portfolio-five-lime-57.vercel.app/_next/image?url=%2Fmove-pc.png&w=1200&q=75" alt="Movie Vault" width="100%" style="border-radius: 10px;"/>
+      </a>
+      <h3 style="margin: 0;">Movie Vault</h3>
+      <p style="font-size: 14px; color: #555;">A movie listing application designed to help users search, browse, and explore movies efficiently. Features include infinite scroll, detailed movie information, and search functionality.</p>
+      <a href="https://github.com/YousifMHelal/movie-vault" target="_blank" style="text-decoration: none; color: #007bff;">🔗 GitHub Repo</a> • <a href="https://movie-vault-cyan.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff;">🌐 Live Demo</a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
