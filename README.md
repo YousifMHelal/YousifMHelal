@@ -45,40 +45,50 @@ I'm a passionate Web Developer with a strong focus on creating dynamic, responsi
 ## 🚀 Latest Projects
 
 <!-- BEGIN PROJECT-CARDS -->
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <div style="flex: 1 1 300px; max-width: 300px; box-shadow: 0 0 10px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
-    <a href="https://github.com/YousifMHelal/trendy" target="_blank">
-      <img src="https://my-portfolio-five-lime-57.vercel.app/_next/image?url=%2Fecom-pc.png&w=1200&q=75" alt="Trendy" style="width: 100%; border-bottom: 1px solid #ddd;"/>
-    </a>
-    <div style="padding: 15px;">
-      <h3 style="margin: 0; font-size: 20px;">Trendy</h3>
-      <p style="margin: 0; font-size: 14px; color: #555;">A comprehensive e-commerce platform designed to provide a seamless shopping experience. The application offers robust authentication, product management, dynamic categorization, and secure checkout features.</p>
-      <div style="margin-top: 10px;">
-        <a href="https://github.com/YousifMHelal/trendy" target="_blank" style="text-decoration: none; color: #007bff; margin-right: 10px;">🔗 GitHub Repo</a>
-        <a href="https://trendy-sigma.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff;">🌐 Live Demo</a>
+<table width="100%" cellspacing="0" cellpadding="10">
+  <tr>
+    <td style="width: 33%; vertical-align: top;">
+      <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+        <a href="https://github.com/YousifMHelal/trendy" target="_blank">
+          <img src="https://my-portfolio-five-lime-57.vercel.app/_next/image?url=%2Fecom-pc.png&w=1200&q=75" alt="Trendy" style="width: 100%; border-bottom: 1px solid #ddd;"/>
+        </a>
+        <div style="padding: 15px;">
+          <h3 style="margin: 0; font-size: 20px;">Trendy</h3>
+          <p style="margin: 0; font-size: 14px; color: #555;">A comprehensive e-commerce platform designed to provide a seamless shopping experience. The application offers robust authentication, product management, dynamic categorization, and secure checkout features.</p>
+          <div style="margin-top: 10px;">
+            <a href="https://github.com/YousifMHelal/trendy" target="_blank" style="text-decoration: none; color: #007bff; margin-right: 10px;">🔗 GitHub Repo</a>
+            <a href="https://trendy-sigma.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff;">🌐 Live Demo</a>
+          </div>
+        </div>
       </div>
-    </div>
-  </div>
-
-  <div style="flex: 1 1 300px; max-width: 300px; box-shadow: 0 0 10px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
-    <a href="https://github.com/YousifMHelal/postpeak" target="_blank">
-      <img src="https://my-portfolio-five-lime-57.vercel.app/_next/image?url=%2Fblog-pc.png&w=1200&q=75" alt="Postpeak" style="width: 100%; border-bottom: 1px solid #ddd;"/>
-    </a>
-    <div style="padding: 15px;">
-      <h3 style="margin: 0; font-size: 20px;">Postpeak</h3>
-      <p style="margin: 0; font-size: 14px; color: #555;">A dynamic blogging platform built with Next.js and Prisma. Users can sign up, log in, create posts, view other posts, comment on them, and filter posts by category.</p>
-      <div style="margin-top: 10px;">
-        <a href="https://github.com/YousifMHelal/postpeak" target="_blank" style="text-decoration: none; color: #007bff;">🔗 GitHub Repo</a>
+    </td>
+    <td style="width: 33%; vertical-align: top;">
+      <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+        <a href="https://github.com/YousifMHelal/postpeak" target="_blank">
+          <img src="https://my-portfolio-five-lime-57.vercel.app/_next/image?url=%2Fblog-pc.png&w=1200&q=75" alt="Postpeak" style="width: 100%; border-bottom: 1px solid #ddd;"/>
+        </a>
+        <div style="padding: 15px;">
+          <h3 style="margin: 0; font-size: 20px;">Postpeak</h3>
+          <p style="margin: 0; font-size: 14px; color: #555;">A dynamic blogging platform built with Next.js and Prisma. Users can sign up, log in, create posts, view other posts, comment on them, and filter posts by category.</p>
+          <div style="margin-top: 10px;">
+            <a href="https://github.com/YousifMHelal/postpeak" target="_blank" style="text-decoration: none; color: #007bff;">🔗 GitHub Repo</a>
+          </div>
+        </div>
       </div>
-    </div>
-  </div>
-
-  <div style="flex: 1 1 300px; max-width: 300px; box-shadow: 0 0 10px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
-    <a href="https://github.com/YousifMHelal/movie-vault" target="_blank">
-      <img src="https://my-portfolio-five-lime-57.vercel.app/_next/image?url=%2Fmove-pc.png&w=1200&q=75" alt="Movie Vault" style="width: 100%; border-bottom: 1px solid #ddd;"/>
-    </a>
-    <div style="padding: 15px;">
-      <h3 style="margin: 0; font-size: 20px;">Movie Vault</h3>
-      <p style="margin: 0; font-size: 14px; color: #555;">A movie listing application designed to help users search, browse, and explore movies efficiently. Features include infinite scroll, detailed movie information, and search functionality.</p>
-      <div style="margin-top: 10px;">
-        <a href="https://github.com/YousifMHelal/movie-vault" target="_blank" style="text-decoration: none; color:
+    </td>
+    <td style="width: 33%; vertical-align: top;">
+      <div style="border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+        <a href="https://github.com/YousifMHelal/movie-vault" target="_blank">
+          <img src="https://my-portfolio-five-lime-57.vercel.app/_next/image?url=%2Fmove-pc.png&w=1200&q=75" alt="Movie Vault" style="width: 100%; border-bottom: 1px solid #ddd;"/>
+        </a>
+        <div style="padding: 15px;">
+          <h3 style="margin: 0; font-size: 20px;">Movie Vault</h3>
+          <p style="margin: 0; font-size: 14px; color: #555;">A movie listing application designed to help users search, browse, and explore movies efficiently. Features include infinite scroll, detailed movie information, and search functionality.</p>
+          <div style="margin-top: 10px;">
+            <a href="https://github.com/YousifMHelal/movie-vault" target="_blank" style="text-decoration: none; color: #007bff;">🔗 GitHub Repo</a>
+          </div>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
