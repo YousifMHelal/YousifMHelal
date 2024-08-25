@@ -53,10 +53,6 @@ I'm a passionate Web Developer with a strong focus on creating dynamic, responsi
     <div style="padding:5px;" >
       <h3 style="margin: 0; font-size: 20px;">Trendy </h3>
       <p style="margin: 0; font-size: 14px; color: #555; width: 300px;">Trendy is a comprehensive e-commerce platform designed to provide a seamless shopping experience. The application offers robust authentication, product management, dynamic categorization, and secure checkout features.</p>
-      <div style="margin-top:10px; display:flex; gap:20px;">
-       <a href="https://github.com/YousifMHelal/trendy" target="_blank" style="text-decoration: none; color: #007bff; margin-right: 10px;">🔗 GitHub Repo</a>
-        <a href="https://trendy-sigma.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff;">🌐 Live Demo</a>
-      </div>
     </div>
   </a>
   <a href="https://github.com/YousifMHelal/trendy" target="_blank" style="width:300px; border:1px solid #eee; text-decoration: none;">
@@ -64,10 +60,6 @@ I'm a passionate Web Developer with a strong focus on creating dynamic, responsi
     <div style="padding:5px;" >
       <h3 style="margin: 0; font-size: 20px;">Trendy </h3>
       <p style="margin: 0; font-size: 14px; color: #555; width: 300px;">Trendy is a comprehensive e-commerce platform designed to provide a seamless shopping experience. The application offers robust authentication, product management, dynamic categorization, and secure checkout features.</p>
-      <div style="margin-top:10px; display:flex; gap:20px;">
-       <a href="https://github.com/YousifMHelal/trendy" target="_blank" style="text-decoration: none; color: #007bff; margin-right: 10px;">🔗 GitHub Repo</a>
-        <a href="https://trendy-sigma.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff;">🌐 Live Demo</a>
-      </div>
     </div>
   </a>
   <a href="https://github.com/YousifMHelal/trendy" target="_blank" style="width:300px; border:1px solid #eee; text-decoration: none;">
@@ -75,10 +67,6 @@ I'm a passionate Web Developer with a strong focus on creating dynamic, responsi
     <div style="padding:5px;" >
       <h3 style="margin: 0; font-size: 20px;">Trendy </h3>
       <p style="margin: 0; font-size: 14px; color: #555; width: 300px;">Trendy is a comprehensive e-commerce platform designed to provide a seamless shopping experience. The application offers robust authentication, product management, dynamic categorization, and secure checkout features.</p>
-      <div style="margin-top:10px; display:flex; gap:20px;">
-       <a href="https://github.com/YousifMHelal/trendy" target="_blank" style="text-decoration: none; color: #007bff; margin-right: 10px;">🔗 GitHub Repo</a>
-        <a href="https://trendy-sigma.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff;">🌐 Live Demo</a>
-      </div>
     </div>
   </a>
 </div>
