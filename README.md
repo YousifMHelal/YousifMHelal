@@ -6,7 +6,7 @@
 
 I'm a passionate Web Developer with a strong focus on creating dynamic, responsive, and user-friendly web applications. I have a deep understanding of both front-end and back-end development, allowing me to build complete web solutions from scratch. My expertise lies in modern JavaScript frameworks, state management, and ensuring the best user experience through well-thought-out design and functionality. I am always eager to learn new technologies and keep myself updated with the latest trends in web development.
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/yousifmhelal/" target="_blank">
     <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/YousifM.Helal" target="_blank">
@@ -18,7 +18,7 @@ I'm a passionate Web Developer with a strong focus on creating dynamic, responsi
 <br />
 <br />
 
-### 🛠️ My Tech Stack
+## 🛠️ My Tech Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -42,45 +42,43 @@ I'm a passionate Web Developer with a strong focus on creating dynamic, responsi
 </div>
 
 <br />
-<br />
 
-### 🚀 Latest Projects
+## 🚀 Latest Projects
 
 <!-- BEGIN PROJECT-CARDS -->
-<div style=" display: flex; gap: 20px; flex-wrap: wrap;">
-  <!-- Project 1 -->
-  <a href="https://github.com/YousifMHelal/trendy" target="_blank" style="display: flex; flex-direction: column; max-width: 300px; height:350px; border: 1px solid #ddd; text-decoration: none; color: inherit;">
+
+<div style="display: flex; gap:20px; width:100%;">
+  <a href="https://github.com/YousifMHelal/trendy" target="_blank" style="width:300px; border:1px solid #eee; text-decoration: none;">
     <img src="https://my-portfolio-five-lime-57.vercel.app/_next/image?url=%2Fecom-pc.png&w=1200&q=75" alt="Trendy" style="width: 100%; border-bottom: 1px solid #ddd;"/>
-    <div style="padding: 10px;">
+    <div style="padding:5px;" >
       <h3 style="margin: 0; font-size: 20px;">Trendy </h3>
       <p style="margin: 0; font-size: 14px; color: #555; width: 300px;">Trendy is a comprehensive e-commerce platform designed to provide a seamless shopping experience. The application offers robust authentication, product management, dynamic categorization, and secure checkout features.</p>
-      <p style="margin-top: 10px;">
-        <a href="https://github.com/YousifMHelal/trendy" target="_blank" style="text-decoration: none; color: #007bff; margin-right: 10px;">🔗 GitHub Repo</a>
+      <div style="margin-top:10px; display:flex; gap:20px;">
+       <a href="https://github.com/YousifMHelal/trendy" target="_blank" style="text-decoration: none; color: #007bff; margin-right: 10px;">🔗 GitHub Repo</a>
         <a href="https://trendy-sigma.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff;">🌐 Live Demo</a>
-      </p>
+      </div>
     </div>
   </a>
-  <a href="https://github.com/YousifMHelal/postpeak" target="_blank" style="display: flex; flex-direction: column; width: 300px; border: 1px solid #ddd; text-decoration: none; color: inherit;">
-    <img src="https://my-portfolio-five-lime-57.vercel.app/_next/image?url=%2Fblog-pc.png&w=1200&q=75" alt="postpeak" style="width: 100%; border-bottom: 1px solid #ddd;"/>
-    <div style="padding: 10px;">
-      <h3 style="margin: 0; font-size: 20px;">postpeak </h3>
-      <p style="margin: 0; font-size: 14px; color: #555; width: 300px;">postpeak is a dynamic blogging platform built with Next.js and Prisma. Users can sign up, log in, create posts, view other posts, comment on them, and filter posts by category. This application provides a user-friendly interface for managing and exploring blog content.</p>
-      <p style="margin-top: 10px;">
-        <a href="https://github.com/YousifMHelal/postpeak" target="_blank" style="text-decoration: none; color: #007bff; margin-right: 10px;">🔗 GitHub Repo</a>
-      </p>
+  <a href="https://github.com/YousifMHelal/trendy" target="_blank" style="width:300px; border:1px solid #eee; text-decoration: none;">
+    <img src="https://my-portfolio-five-lime-57.vercel.app/_next/image?url=%2Fecom-pc.png&w=1200&q=75" alt="Trendy" style="width: 100%; border-bottom: 1px solid #ddd;"/>
+    <div style="padding:5px;" >
+      <h3 style="margin: 0; font-size: 20px;">Trendy </h3>
+      <p style="margin: 0; font-size: 14px; color: #555; width: 300px;">Trendy is a comprehensive e-commerce platform designed to provide a seamless shopping experience. The application offers robust authentication, product management, dynamic categorization, and secure checkout features.</p>
+      <div style="margin-top:10px; display:flex; gap:20px;">
+       <a href="https://github.com/YousifMHelal/trendy" target="_blank" style="text-decoration: none; color: #007bff; margin-right: 10px;">🔗 GitHub Repo</a>
+        <a href="https://trendy-sigma.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff;">🌐 Live Demo</a>
+      </div>
     </div>
   </a>
-  <a href="https://github.com/YousifMHelal/movie-vault" target="_blank" style="display: flex; flex-direction: column; width: 300px; border: 1px solid #ddd; text-decoration: none; color: inherit;">
-    <img src="https://my-portfolio-five-lime-57.vercel.app/_next/image?url=%2Fmove-pc.png&w=1200&q=75" alt="Movie Vault" style="width: 100%; border-bottom: 1px solid #ddd;"/>
-    <div style="padding: 10px;">
-      <h3 style="margin: 0; font-size: 20px;">Movie Vault</h3>
-      <p style="margin: 0; font-size: 14px; color: #555; width: 300px;">Movie Vault is a movie listing application designed to help users search, browse, and explore movies efficiently. With features like infinite scroll, detailed movie information, and search functionality, Movie Vault offers an engaging experience for movie enthusiasts.</p>
-      <p style="margin-top: 10px;">
-        <a href="https://github.com/YousifMHelal/movie-vault" target="_blank" style="text-decoration: none; color: #007bff; margin-right: 10px;">🔗 GitHub Repo</a>
-        <a href="https://movie-vault-cyan.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff;">🌐 Live Demo</a>
-      </p>
+  <a href="https://github.com/YousifMHelal/trendy" target="_blank" style="width:300px; border:1px solid #eee; text-decoration: none;">
+    <img src="https://my-portfolio-five-lime-57.vercel.app/_next/image?url=%2Fecom-pc.png&w=1200&q=75" alt="Trendy" style="width: 100%; border-bottom: 1px solid #ddd;"/>
+    <div style="padding:5px;" >
+      <h3 style="margin: 0; font-size: 20px;">Trendy </h3>
+      <p style="margin: 0; font-size: 14px; color: #555; width: 300px;">Trendy is a comprehensive e-commerce platform designed to provide a seamless shopping experience. The application offers robust authentication, product management, dynamic categorization, and secure checkout features.</p>
+      <div style="margin-top:10px; display:flex; gap:20px;">
+       <a href="https://github.com/YousifMHelal/trendy" target="_blank" style="text-decoration: none; color: #007bff; margin-right: 10px;">🔗 GitHub Repo</a>
+        <a href="https://trendy-sigma.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff;">🌐 Live Demo</a>
+      </div>
     </div>
   </a>
 </div>
-
-<!-- END PROJECT-CARDS -->
