@@ -45,9 +45,6 @@ I'm a passionate Web Developer with a strong focus on creating dynamic, responsi
 ## 🚀 Latest Projects
 
 <!-- BEGIN PROJECT-CARDS -->
-<div align="center">
-
-<!-- Responsive Container -->
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
   <div style="flex: 1 1 300px; max-width: 300px; box-shadow: 0 0 10px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden;">
     <a href="https://github.com/YousifMHelal/trendy" target="_blank">
@@ -84,4 +81,4 @@ I'm a passionate Web Developer with a strong focus on creating dynamic, responsi
       <h3 style="margin: 0; font-size: 20px;">Movie Vault</h3>
       <p style="margin: 0; font-size: 14px; color: #555;">A movie listing application designed to help users search, browse, and explore movies efficiently. Features include infinite scroll, detailed movie information, and search functionality.</p>
       <div style="margin-top: 10px;">
-        <a href="https://github.com/Yousif
+        <a href="https://github.com/YousifMHelal/movie-vault" target="_blank" style="text-decoration: none; color:
