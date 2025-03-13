@@ -10,11 +10,14 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yousifmhelal/" target="_blank">
+    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/YousifM.Helal" target="_blank">
+    <img alt="Facebook" title="Follow me on Facebook" src="https://custom-icon-badges.demolab.com/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://yousifmamdouh.online/" target="_blank">
+    <img alt="Website" title="Visit my website" src="https://custom-icon-badges.demolab.com/badge/-Website-black?style=for-the-badge&logo=globe&logoColor=white"/></a>
+</p>
 
 ###
 
@@ -67,6 +70,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/YousifMHelal/YousifMHelal/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/YousifMHelal/YousifMHelal/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
 ###
