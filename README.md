@@ -12,11 +12,14 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yousifmhelal/" target="_blank">
-    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://www.facebook.com/YousifM.Helal" target="_blank">
-    <img alt="Facebook" title="Follow me on Facebook" src="https://custom-icon-badges.demolab.com/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
   <a href="https://yousifmamdouh.online/" target="_blank">
-    <img alt="Website" title="Visit my website" src="https://custom-icon-badges.demolab.com/badge/-Website-black?style=for-the-badge&logo=globe&logoColor=white"/></a>
+    <img alt="Website" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white"/>
+  </a>
 </p>
 
 ###
@@ -64,12 +67,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YousifMHelal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<img align="left" height="150" src="https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif"  />
 
-###
+## 📫 Get In Touch
 
-<img src="https://raw.githubusercontent.com/YousifMHelal/YousifMHelal/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+Feel free to reach out to me for collaborations or just a friendly chat!
 
-###
+- 📧 Email: [YousifM.Helal@gmail.com](mailto:YousifM.Helal@gmail.com)
+- 🌐 LinkedIn: [Yousif Mamdouh](https://www.linkedin.com/in/yousifmhelal/)
+- 🌐 Personal Website: [YousifMamdouh.online](https://yousifmamdouh.online/)
