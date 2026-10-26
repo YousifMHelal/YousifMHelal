@@ -1,133 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=008BFF&text=Yousif%20Mamdouh🧑‍💻&reversal=true&textBg=false&fontColor=fff&animation=twinkling&fontSize=0" width="100%"/>
+<img src="assets/header.svg" width="100%" alt="Yousif Mamdouh — Full-Stack Developer"/>
+
+<br/>
+
+<a href="https://www.yousifmamdouh.tech"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=22d3ee" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/yousifmhelal/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=60a5fa" alt="LinkedIn"/></a>
+<a href="mailto:YousifM.Helal@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f87171" alt="Email"/></a>
 
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=600&lines=Building+scalable+web+apps+%F0%9F%9A%80;AI-powered+SaaS+platforms+%F0%9F%A4%96;Full-stack+with+React+%26+Next.js+%E2%9A%A1;Always+learning%2C+always+shipping+%F0%9F%93%A6)](https://git.io/typing-svg)
-
-</div>
-
----
+<br/>
 
 ## 🧑‍💻 About Me
 
+I'm a **full-stack developer at [Electro Pi](https://github.com/Electro-Pi)**, where I build the web platforms around AI products — the dashboards people work in, the APIs and job queues behind them, and the data models underneath. Most of what I ship is **Next.js + TypeScript** on the front, **Node.js / Express + Prisma + PostgreSQL** on the back, bilingual **Arabic / English with full RTL**, wired into LLM, voice and WhatsApp agents.
+
 ```typescript
 const yousif = {
-  role:       "Frontend Developer",
-  location:   "Qalyubia, Egypt 🇪🇬",
-  available:  ["Remote", "Onsite", "Hybrid"],
-  education:  [
+  role:      "Full-Stack Developer @ Electro Pi",
+  location:  "Qalyubia, Egypt 🇪🇬",
+  available: ["Remote", "Onsite", "Hybrid"],
+  stack: {
+    frontend: ["Next.js", "React", "TypeScript", "Tailwind", "shadcn/ui"],
+    backend:  ["Node.js", "Express", "Auth.js", "pg-boss", "OpenAPI"],
+    data:     ["PostgreSQL", "Prisma", "Redis", "MongoDB"],
+    ai:       ["Claude API", "Gemini", "LiveKit", "MCP"],
+  },
+  education: [
     "Postgrad Diploma CS — Cairo University (GPA: A-)",
     "BSc MIS — Higher Institute for Specific Studies (GPA: B+)",
     "ITI Frontend Development — React (120hrs)",
     "Harvard CS50 + SOLID Principles",
   ],
-  currentlyBuilding: "AI-powered SaaS platforms with Next.js + Gemini AI",
-  funFact:    "Built enterprise systems during military service — offline, no internet 💪",
+  currentlyBuilding: "AI-powered platforms — call centers, CRMs, coaching & clinical tools",
+  funFact: "Built enterprise systems during military service — offline, no internet 💪",
 };
 ```
 
----
+<img src="assets/stats.svg" width="100%" alt="1,390+ commits at Electro Pi · 14 company repos · 5 flagship platforms · AR/EN full RTL"/>
+
+<br/>
+
+## 🚀 Featured Work
+
+<sub>Private client platforms built at Electro Pi. Source is confidential, so these are summaries.</sub>
+
+<table>
+<tr>
+<td colspan="2"><img src="assets/projects/node-call-center.svg" width="100%" alt="Node Call Center — agentic AI call-center platform"/></td>
+</tr>
+<tr>
+<td width="50%"><img src="assets/projects/land-and-lead.svg" width="100%" alt="Land & Lead — CRM for an AI WhatsApp real-estate sales agent"/></td>
+<td width="50%"><img src="assets/projects/modrb.svg" width="100%" alt="MODRB — AI coaching platform inside Microsoft Teams"/></td>
+</tr>
+<tr>
+<td width="50%"><img src="assets/projects/medswarm.svg" width="100%" alt="Medswarm — clinical decision support dashboard and API"/></td>
+<td width="50%"><img src="assets/projects/alcamp.svg" width="100%" alt="Alcamp — two-sided hiring marketplace"/></td>
+</tr>
+</table>
+
+## 🛠️ Side Projects
+
+<table>
+<tr>
+<td width="50%"><a href="https://bookified-bay.vercel.app/"><img src="assets/projects/bookified.svg" width="100%" alt="Bookified — chat with books via real-time voice"/></a></td>
+<td width="50%"><a href="https://teba-ecommerce-theta.vercel.app/"><img src="assets/projects/teba.svg" width="100%" alt="Teba — e-commerce store with admin dashboard"/></a></td>
+</tr>
+</table>
 
 ## ⚡ Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-### 🛠 Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,sqlite,redis" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,gcp,azure,aws,vercel,githubactions,vitest" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 
 </div>
 
----
-
-## 🚀 Featured Projects
+## 📊 GitHub Activity
 
 <div align="center">
-
-| Project | Description | Stack | Live |
-|---------|-------------|-------|------|
-| 📚 **Bookified** | AI-powered SaaS — chat with books via real-time voice | Next.js • TypeScript • MongoDB • Gemini AI • ElevenLabs | [🔗 Live](https://bookified-bay.vercel.app/) |
-| 🛒 **Teba** | Full-featured e-commerce with admin dashboard & Algolia search | Next.js • TypeScript • PostgreSQL • Prisma • NextAuth | [🔗 Live](https://teba-ecommerce-theta.vercel.app/) |
-| 💰 **Cash Withdraw System** | Financial ops system with PDF reports & Arabic RTL UI | React • Node.js • Express • Prisma | — |
-| 🪖 **Military Internal Systems** | Exam platform + Clinic mgmt + Fax workflow — built fully offline | Node.js • Express • SQLite • EJS | — |
-
+<img src="https://github-readme-stats.vercel.app/api?username=YousifMHelal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=22d3ee&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YousifMHelal&layout=compact&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9&langs_count=6" height="165"/>
 </div>
 
----
-
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YousifMHelal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1A56DB&icon_color=0ea5e9&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=YousifMHelal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1A56DB&text_color=c9d1d9&langs_count=6" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YousifMHelal&theme=tokyonight&hide_border=true&background=0d1117&ring=1A56DB&fire=0ea5e9&currStreakLabel=0ea5e9" width="60%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YousifMHelal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YousifMHelal&bg_color=0d1117&color=1A56DB&line=0ea5e9&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousifmhelal/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1A56DB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.yousifmamdouh.tech)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YousifM.Helal@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YousifMHelal)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1A56DB&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-<sub>⚡ Open to freelance, full-time, and exciting collaborations — let's build something great.</sub>
-
+<sub>Open to freelance, full-time and interesting collaborations — <a href="mailto:YousifM.Helal@gmail.com">let's build something</a>.</sub>
 </div>
