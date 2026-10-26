@@ -10,8 +10,6 @@
 
 </div>
 
-<br/>
-
 ## 🧑‍💻 About Me
 
 I'm a **full-stack developer at [Electro Pi](https://github.com/Electro-Pi)**, where I build the web platforms around AI products — the dashboards people work in, the APIs and job queues behind them, and the data models underneath. Most of what I ship is **Next.js + TypeScript** on the front, **Node.js / Express + Prisma + PostgreSQL** on the back, bilingual **Arabic / English with full RTL**, wired into LLM, voice and WhatsApp agents.
@@ -73,13 +71,7 @@ const yousif = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite" />
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,sqlite,redis" />
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,gcp,azure,aws,vercel,githubactions,vitest" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite,nodejs,express,prisma,postgres,mongodb,sqlite,redis,docker,gcp,azure,aws,vercel,githubactions,vitest,git,github,figma,vscode&perline=13" width="100%" alt="Tech stack"/>
 
 </div>
 
@@ -93,5 +85,16 @@ const yousif = {
 <br/>
 
 <div align="center">
-<sub>Open to freelance, full-time and interesting collaborations — <a href="mailto:YousifM.Helal@gmail.com">let's build something</a>.</sub>
+
+<a href="mailto:YousifM.Helal@gmail.com"><img src="assets/footer.svg" width="100%" alt="Let's build something together — YousifM.Helal@gmail.com"/></a>
+
+<br/>
+
+<a href="https://www.yousifmamdouh.tech"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=22d3ee" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/yousifmhelal/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=60a5fa" alt="LinkedIn"/></a>
+<a href="mailto:YousifM.Helal@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f87171" alt="Email"/></a>
+<a href="https://github.com/YousifMHelal"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<sub>© 2026 Yousif Mamdouh · Powered by coffee and too many terminals ☕</sub>
+
 </div>
